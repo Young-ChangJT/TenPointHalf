@@ -93,11 +93,4 @@ No explicit license specified. For usage in other projects, please contact the a
 - **Young-ChangJT**
 - GitHub: [@Young-ChangJT](https://github.com/Young-ChangJT)
 
-## Version History
-
-- **Final Version** (Last commit): Complete implementation with all core features
-- **First Commit**: Initial project setup with README
-
----
-
 *For questions or collaboration opportunities, please open an issue or contact the author directly.*
